@@ -5,7 +5,7 @@ while array.length > counter do
 
  if  array[counter] == value_to_find
    puts array[counter]
-  counter += 1
+  
 end
 end
 
